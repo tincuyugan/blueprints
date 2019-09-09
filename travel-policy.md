@@ -16,3 +16,9 @@ The Drops travel policy helps us:
 
 Thank you for reading and following our policy! Please direct any questions to Marit (marit@languagedrops.com) 🧚
 
+
+## Minimizing expenses
+
+We’ll reimburse all reasonable business expenses, after they are approved, in part or in full as the case may be BUT we want to avoid overspending or unnecessary costs. 
+For example, we prefer booking plane tickets in economy class, unless there is reason for upgraded travel. 
+We ask you to use your best judgment when traveling for company purposes. 
