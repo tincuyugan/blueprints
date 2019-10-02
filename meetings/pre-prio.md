@@ -1,29 +1,42 @@
-# Pre-prio call
+# Times
 
-### Responsibilities before the pre-prio:
+Web/Marketing pre-prio - Tuesday, 18:00 
+
+Mobile pre-prio - Wednesday, 10:45
+
+ASO pre-prio - Wednesday, 11:30
+
+# Before the pre-prio:
 
 #### For Contributors:
-Look at what you have planned in the coming week and prepare to 1) highlight if you don’t have enough to do and 2) be able to answer if you can pick up more work.
+1. Look at what you've done last week
+2. Put together the plan for next week based on the info you already have (rolling projects, already agreed on new projects)
+3. Look at how much free capacity do you have
 
 #### Project/domain owners:
 
-Look at your project list and prepare to:
-1. Ask for contributors time (i.e. starting on something).
-2. Ask for status update (if needed)
+Look at your project list and prepare before the call by:
+1. Listing the new projects ready for others to contribute on
+2. Asking for status update (if needed)
 3. Plan what state the project could get to by next week
 
-### Schedule of the call
+# Schedule of the call
 
-For each contributor, one-by-one:
+#### For each contributor, one-by-one:
+1. Previous week: Did everything go according to plan? Any rolling projects?
+2. Previous week: Talk about any overflowing projects.
+3. Next week: What will you be working on?
+4. Next week: How much free capacity do you have? (This will give project/domain owners a chance to understand what will be possible.)
 
-1. Talk about how the previous week went. How did it go? Any rolling projects?
-2. What will you be working on next week?
-3. How much free capacity do you have for next week? (This will give project/domain owners a chance to understand what will be possible.)
-4. Project/domain owners highlight the projects that they would like to start and we discuss if it’s possible.
-5. Each individual to write up what they want to accomplish for each project, and how much time are they planning to spend on it in the channel. 
-6. Update Monday.com
+#### Project/domain owners:
+5. Highlight the projects that they would like to start and we discuss if it’s possible.
 
-### In case of conflict
+#### After the call
+
+6. Each individual to write up what they want to accomplish for each project, and how much time are they planning to spend on it in the channel. 
+7. Update Monday.com (Assign people, update project status, etc.)
+
+# In case of conflict
 
 - If the conflict is on the domain level, let the domain owner decide
 - If the conflict is between domains, let the exec sponsor decide
