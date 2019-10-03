@@ -19,7 +19,6 @@
 - [ ] Tech leads organises QA
 - [ ] Enable testing (feature flag) for the team & **Ask for internal feedback**
 - [ ] Project owner tested the feature :)
-- 
 
 ## ⚗️ AB testing
 - [ ] **Verify if it requires an AB test**
