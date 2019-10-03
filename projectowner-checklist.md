@@ -27,6 +27,7 @@
 - [ ] **Primary KPI we want to increase**
 - [ ] Secondary KPI we want to increase (if there’s one)
 - [ ] **State what change do we expect to have for our primary & secondary KPI?**
+- [ ] Pick user segment with William
 - [ ] Figure out when is the test expected to run?
 - [ ] inform support on #ab-test-support channel of the intended ab test before launching
 
