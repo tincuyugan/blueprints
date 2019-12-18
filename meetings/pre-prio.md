@@ -6,6 +6,8 @@ Mobile pre-prio - Wednesday, 10:45
 
 ASO pre-prio - Wednesday, 11:30
 
+We're planning for 5 days of work (minus conj-time, if we have it on that week), every time, even before the offsite. After the offsite, we're continuing with the previous week's projects, until the first pre-prio, to give time for new projects to materialize and avoid panic on the first Monday after the gathering.
+
 # Before the pre-prio:
 
 #### For Contributors:
@@ -33,7 +35,7 @@ Look at your project list and prepare before the call by:
 
 #### After the call
 
-6. Each individual to write up what they want to accomplish for each project, and how much time are they planning to spend on it in the channel. 
+6. Each individual to write up what they want to accomplish for each project, and how much time are they planning to spend on it in the channel (#planning-capacity). 
 7. Update Monday.com (Assign people, update project status, etc.)
 
 # In case of conflict
