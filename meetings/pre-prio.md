@@ -10,6 +10,9 @@ We're planning for 5 days of work (minus conj-time, if we have it on that week),
 
 # Before the pre-prio:
 
+#### How to hand over a product project to design
+Capture all necessary project details and summarise them in a project doc. Once this is done mark the project status on Monday.com as “Ready for design” and ping the #planning-capacity channel that the project is ready for design. The project will be picked up as soon as possible based on designer availability and other priorities. This only applies for non-urgent projects. If the project is urgent just reach out and say so in any way you’d like and mention it in the weekly mobile-prio call.
+
 #### For Contributors:
 1. Look at what you've done last week
 2. Put together the plan for next week based on the info you already have (rolling projects, already agreed on new projects)
